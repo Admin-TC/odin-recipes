@@ -1,16 +1,15 @@
 h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: large;
+    font-size: xx-large;
     color: darkred;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
 }
 
 li {
     list-style-type: none;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: medium;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 20px;
 }
 
 a:link {
