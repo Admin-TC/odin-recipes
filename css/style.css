@@ -31,3 +31,8 @@ a:active {
     color: red;
     text-decoration: underline;
   }
+
+
+  .bi .bi-card-checklist{
+    padding-right: 15px;
+  }
