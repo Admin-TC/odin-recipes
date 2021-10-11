@@ -17,16 +17,16 @@ a:link {
     color: red;
   }
   
-  a:visited {
+a:visited {
     color: red;
   }
 
-  a:hover {
+a:hover {
     color: gold;
     text-decoration: underline;
   }
   
-  a:active {
+a:active {
     color: red;
     text-decoration: dotted;
   }
