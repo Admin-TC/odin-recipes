@@ -15,10 +15,12 @@ li {
 
 a:link {
     color: red;
+    text-decoration: dotted;
   }
   
 a:visited {
     color: red;
+    text-decoration: dotted;
   }
 
 a:hover {
@@ -28,5 +30,5 @@ a:hover {
   
 a:active {
     color: red;
-    text-decoration: dotted;
+    text-decoration: underline;
   }
