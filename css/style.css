@@ -45,12 +45,13 @@ p {
 
 ul.li{
     list-style-type: square;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    margin-top: 13px;
 }
 
 ol.li{
   list-style-type: decimal;
+}
+
+li{
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   margin-top: 13px;
 }
