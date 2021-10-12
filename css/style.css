@@ -6,7 +6,14 @@ h1 {
     margin-left: 20px;
 }
 
-li {
+p{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 15px;
+
+}
+
+
+.main menu list item {
     list-style-type: none;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin-top: 20px;
