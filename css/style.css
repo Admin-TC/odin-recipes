@@ -43,13 +43,13 @@ p {
     margin-top: 20px;
 }
 
-ul,li{
+ul.li{
     list-style-type: square;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin-top: 13px;
 }
 
-ol,li{
+ol.li{
   list-style-type: decimal;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   margin-top: 13px;
