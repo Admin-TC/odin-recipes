@@ -6,10 +6,34 @@ h1 {
     margin-left: 20px;
 }
 
+h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 40px;
+  color: darkred;
+  margin-bottom: 40px;
+  margin-left: 20px;
+}
+
+h3 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 30px;
+  color: darkred;
+  margin-bottom: 40px;
+  margin-left: 20px;
+}
+
+h4 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+  color: darkred;
+  margin-bottom: 40px;
+  margin-left: 20px;
+}
+
 p {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 15px;
-
+  margin-left: 15px;
 }
 
 
@@ -17,6 +41,18 @@ p {
     list-style-type: none;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin-top: 20px;
+}
+
+ul li{
+    list-style-type: square;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 13px;
+}
+
+ol li{
+  list-style-type: georgian;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-top: 13px;
 }
 
 a{
