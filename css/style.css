@@ -32,7 +32,6 @@ h4 {
 
 img{
   margin-left:25px;
-  width: auto;
 }
 
 p {
@@ -58,6 +57,7 @@ ol.li{
 
 li{
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 18px;
   margin-top: 13px;
 }
 
