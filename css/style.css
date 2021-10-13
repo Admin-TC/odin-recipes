@@ -93,6 +93,10 @@ a:active {
     margin-top: 50px;
   }
 
+.home-link-container{
+    margin-top: 20px;
+}
+
   .bi-layout-text-sidebar-reverse{
     margin-right: 15px;
     font-size: 30px;
